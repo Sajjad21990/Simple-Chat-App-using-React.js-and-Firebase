@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Chat-App-using-React.js-and-Firebase/static/css/main.050523cc.chunk.css",
+    "main.js": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/main.5a0b996a.chunk.js",
+    "main.js.map": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/main.5a0b996a.chunk.js.map",
+    "runtime-main.js": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/runtime-main.c7c67ace.js",
+    "runtime-main.js.map": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/runtime-main.c7c67ace.js.map",
+    "static/js/2.5c351f0c.chunk.js": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/2.5c351f0c.chunk.js",
+    "static/js/2.5c351f0c.chunk.js.map": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/2.5c351f0c.chunk.js.map",
+    "index.html": "/Simple-Chat-App-using-React.js-and-Firebase/index.html",
+    "precache-manifest.e96ef1d8873042e723375dfebc70e101.js": "/Simple-Chat-App-using-React.js-and-Firebase/precache-manifest.e96ef1d8873042e723375dfebc70e101.js",
+    "service-worker.js": "/Simple-Chat-App-using-React.js-and-Firebase/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/Simple-Chat-App-using-React.js-and-Firebase/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.5c351f0c.chunk.js.LICENSE.txt": "/Simple-Chat-App-using-React.js-and-Firebase/static/js/2.5c351f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c67ace.js",
+    "static/js/2.5c351f0c.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.5a0b996a.chunk.js"
+  ]
+}
